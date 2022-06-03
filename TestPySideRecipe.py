@@ -1,7 +1,7 @@
 import os
 import PySide6
 
-# Using the `from` keyword to import these modules causes
+# Using the `from` keyword to import these modules causes a different error when building
 #
 from PySide6.QtCore import Qt, Slot
 #from PySide6 import QtCore,QtGui
