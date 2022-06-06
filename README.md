@@ -1,4 +1,4 @@
-# py2app TestDirectoryResrouce
+# py2app TestPySideRecipe
 
 Tries to package a py2app which imports PySide6
 
